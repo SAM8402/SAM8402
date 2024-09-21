@@ -16,7 +16,8 @@
  **Version Control:** Git, GitHub
  **Other Tools:** Docker
 
-- 📫 How to reach me **22f1001972@ds.study.iitm.ac.in** or **imranashraf9559@gmail.com**
+- 📫 How to reach me
+  **22f1001972@ds.study.iitm.ac.in** or **imranashraf9559@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
