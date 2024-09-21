@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Machine learning**
 
 - 💬 Ask me about
-- **Frontend:** HTML, CSS, JavaScript, Vue.js
+* **Frontend:** HTML, CSS, JavaScript, Vue.js
 - **Backend:**  Python, Flask, Django
 - **Databases:** SQLite3, MySQL, PostgreSQL
 - **Version Control:** Git, GitHub
