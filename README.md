@@ -9,14 +9,14 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 💬 Ask me about
-* **Frontend:** HTML, CSS, JavaScript, Vue.js
+### 💬 Ask me about
+- **Frontend:** HTML, CSS, JavaScript, Vue.js
 - **Backend:**  Python, Flask, Django
 - **Databases:** SQLite3, MySQL, PostgreSQL
 - **Version Control:** Git, GitHub
 - **Other Tools:** Docker
 
-- 📫 How to reach me
+### 📫 How to reach me
  - **22f1001972@ds.study.iitm.ac.in** or **imranashraf9559@gmail.com**
 
 
