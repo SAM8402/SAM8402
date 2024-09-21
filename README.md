@@ -1,7 +1,7 @@
 <p><h1 align="center">Imran Ashraf👩🏻‍💻</h1></p>
 <h3 align="center">web devloper 👩🏻‍💻| Flask/Django and Vue.js | machine learning project 🌆</h3>
 
-<a href="https://sam8402.github.io/Portfolio-Website/" target="_blank" rel="noopener">Imran Ashraf</a> by Imran Ashraf
+<a href="https://sam8402.github.io/Portfolio-Website/" target="_blank" rel="noopener">Portfolio Web Page</a> by Imran Ashraf
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/11/5e/cd/115ecd960631ba4b2f9fe784ca98b42d.jpg">
 
