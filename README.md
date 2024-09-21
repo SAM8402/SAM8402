@@ -25,7 +25,7 @@
 <a href="https://www.codechef.com/users/iashraf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="iashraf" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/Pythonic_Lava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@Pythonic_Lava" height="30" width="40" /></a>
 <a href="https://www.naukri.com/code360/profile/64815ebd-b3a9-4e0f-a18a-f33d82582cd0" target="blank"><img align="center" src="https://images.app.goo.gl/FjRzDq6ko7JaGJ4r6" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/iAshraf/" target="blank"><i class="cib-leetcode"></i></a>
+<i class="cib-leetcode"><a href="https://leetcode.com/u/iAshraf/" target="blank"></a></i>
 
 </p>
 
