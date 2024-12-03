@@ -1,4 +1,7 @@
-<p><h1 align="center">Imran Ashraf👩🏻‍💻</h1></p>
+<!--<p><h1 align="center">Imran Ashraf👩🏻‍💻</h1></p>-->
+<div align=center>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Imran+Ashraf;Full+Stack+Dev;Data+Science+Student;" alt="Typing SVG" /></a>
+</div>
 <h3 align="center">web devloper 👩🏻‍💻| Flask/Django and Vue.js | machine learning project 🌆</h3>
 
 <a href="https://sam8402.github.io/Portfolio-Website/" target="_blank" rel="noopener">Portfolio Web Page</a> by Imran Ashraf
