@@ -6,7 +6,7 @@
 
 <a href="https://sam8402.github.io/Portfolio-Website/" target="_blank" rel="noopener">Portfolio Web Page</a> by Imran Ashraf
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/11/5e/cd/115ecd960631ba4b2f9fe784ca98b42d.jpg">
+<img align="right" alt="coding" height="350" width="400" src="https://i.pinimg.com/originals/11/5e/cd/115ecd960631ba4b2f9fe784ca98b42d.jpg">
 
 - 🌆 I’m currently working on **machine learning project**
 
