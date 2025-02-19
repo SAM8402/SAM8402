@@ -15,7 +15,9 @@
 ### 💬 Ask me about
 - **Frontend:** HTML, CSS, JavaScript, Vue.js
 - **Backend:**  Python, Flask, Django
+- **Languages:** C/C++. Java(Core), Python, JavaScript
 - **Databases:** SQLite3, MySQL, PostgreSQL
+- **Machine Learning:** Numpy, Pandas, Linux , Scikit-learn
 - **Version Control:** Git, GitHub
 - **Other Tools:** Docker
 
