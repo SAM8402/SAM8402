@@ -1,9 +1,9 @@
 <!--<p><h1 align="center">Imran Ashraf👩🏻‍💻</h1></p>-->
 <div align=center>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Imran+Ashraf;A+Full+Stack+Dev+(Flask/Django+and+Vue.js);Data+Science+Student;And;Computer+Science+and+Engineering;" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Imran+Ashraf;A+Data+Science+Student;And;Computer+Science+and+Engineering;" alt="Typing SVG" /></a>
 </div>
 <div align=center>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=A+Full+Stack+Dev+(Flask/Django+and+Vue.js);And;Learing+Machine+Learning+Deep+Learning;" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=I'm+a+Full+Stack+Dev+(Flask/Django+and+Vue.js);And+Currently+Learing;Machine+Learning+and+Deep+Learning;" alt="Typing SVG" /></a>
 </div>
 <!-- <h3 align="center">web devloper 👩🏻‍💻| Flask/Django and Vue.js | machine learning project 🤖🌆</h3> -->
 
